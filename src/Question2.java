@@ -228,8 +228,8 @@ public class Question2 extends javax.swing.JFrame {
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         //open next mcq
         Question3 jf2 = new Question3();
-        jf2.show();//display Question2 frame here
-        dispose();//close the Quiz frame after open the Question2 frame
+        jf2.show();//display Question3 frame here
+        dispose();//close the Question2 frame after open the Question3 frame
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**

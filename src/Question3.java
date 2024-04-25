@@ -213,7 +213,8 @@ public class Question3 extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        // TODO add your handling code here:
+        JOptionPane.showMessageDialog(this, "Thank you for your assistance with the quiz");
+        dispose();
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
